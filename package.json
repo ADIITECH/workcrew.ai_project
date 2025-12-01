@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@mantine/core": "^8.3.9",
+    "@mantine/form": "^8.3.9",
+    "@mantine/hooks": "^8.3.9",
+    "axios": "^1.13.2",
+    "react-markdown": "^10.1.0"
+  }
+}
